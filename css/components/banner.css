@@ -1,0 +1,23 @@
+.banner {
+  background-image: url(../../images/background-image.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
+
+.banner h1 {
+  color: 2B2C28;
+  padding: 20px 20px;
+  font-size: 40px;
+  text-decoration: underline overline;
+}
+
+.banner h2 {
+  background-color:#4357AD;
+  font-size: 30px;
+  font-weight: lighter;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 4px;
+  color: white;
+}
